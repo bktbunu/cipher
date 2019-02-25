@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551024665 source:c:\users\bkt\documents\cipher\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
